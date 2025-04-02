@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello
+🌱 I’m currently learning how to code. I'm excited for the journey!
 <!--
 **mrjcasanova/mrjcasanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
